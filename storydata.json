@@ -1,0 +1,71 @@
+{
+  "genres": [
+    "Romance",
+    "Fantasy",
+    "SciFi",
+    "Crime"
+  ],
+  "colors": [
+    "#F5B7B1",
+    "#A9DFBF",
+    "#A9CCE3",
+    "#D2B4DE"
+  ],
+  "list_genre_lbls": [
+    [
+      "title",
+      "a woman's name",
+      "a man's name",
+      "a time period, plural",
+      "an adverb",
+      "an animal, plural",
+      "an adverb",
+      "a color",
+      "a piece of clothing",
+      "an occupation"
+    ],
+    [
+      "title",
+      "a man's name",
+      "a magical item",
+      "an adjective",
+      "an adjective",
+      "an adjective",
+      "an adjective",
+      "a verb in past tense",
+      "an adverb",
+      "a building"
+    ],
+    [
+      "title",
+      "a man's name",
+      "an emotion",
+      "a color",
+      "a number",
+      "a number",
+      "a body part, plural",
+      "a weird name",
+      "an object",
+      "an object"
+    ],
+    [
+      "title",
+      "an occupation",
+      "a location",
+      "a noun, plural",
+      "a body part",
+      "an emotion",
+      "a number",
+      "an occupation",
+      "a number",
+      "an occupation"
+    ]
+  ],
+  "stories": [
+    "{var1} looked at {var2}. She couldn't believe that their\n wedding was just a few {var3} away. The sun was shining\n {var4} and the {var5} in the trees were singing {var6}.\n The {var7} {var8} she was going to wear at her wedding,\n sewn by her {var9}, was hanging\n in her bedroom.",
+    "{var1} raised his magical {var2}. He was on a quest to defeat the\n {var3} wizard . His {var4} friends, the {var5} elf\n and the {var6} dragon were right beside him. They {var7} {var8}\n in the direction of the {var9} where the wizard lived. ",
+    "After the spaceship landed and {var1} got out,\n he looked around in {var2}. The planet he had landed on\n seemed to be inhabited by {var3} creatures, around {var4} ft tall.\n Around {var5} of them came to greet him. He shook their {var6}, as \n was the local custom when meeting someone for the first\n time on planet {var7}. He wanted to befriend the locals,\n so he presented them with special gifts he had brought from Earth-\n one {var8} and one {var9} for each of them.",
+    "The {var1} walked around the {var2}, looking for clues.\n She couldn't find anything except for a few {var3} on the ground.\n She scratched her {var4} in {var5}. Who could \nhave done this? She had already questioned her suspects - \nthe {var6} year old {var7} and the {var8} year old {var9},\n but still didn't know what to think."
+
+  ]
+}
